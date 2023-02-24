@@ -1,0 +1,10 @@
+## MODELS
+rails g model Greeting language:string message:string
+
+## DATA
+Greeting.create(language: 'English', message: 'Hello World')
+Greeting.create(language: 'Spanish', message: 'Homa Mundo')
+Greeting.create(language: 'Danish', message: 'Hej Verden')
+Greeting.create(language: 'French', message: '	Bonjour monde')
+Greeting.create(language: 'German', message: 'Hallo Welt')
+
