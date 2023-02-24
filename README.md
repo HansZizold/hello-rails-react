@@ -66,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [budget App](https://budget-1bv7.onrender.com/groups)
+- **Coming Soon**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,14 +90,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-    git clone https://github.com/HansZizold/budget_app
-    cd ./budget_app
+    git clone https://github.com/HansZizold/hello-rails-react
+    cd ./hello-rails-react
 
 ### Install
 
 Install this project with:
 
-    rails new .
     rails new -j webpack . -d postgresql -T
     bundle install
 
@@ -131,9 +130,6 @@ To run the project, execute the following command:
 
 - [ ] **Add more random messages**
 - [ ] **Add styling**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
