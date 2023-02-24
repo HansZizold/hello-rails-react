@@ -39,31 +39,18 @@
     <li><a href="https://code.visualstudio.com/">VSCODE Editor</a></li>
   </ul>
 </details>
-
 <details>
-  <summary>Framework</summary>
+  <summary>Backend</summary>
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
-  </ul>
-</details>
-
 <details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
-
-<details>
-
-<details>
 <details>
 <summary>FrontEnd</summary>
   <ul>
