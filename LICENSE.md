@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Peter Beshara
+Copyright (c) 2023 Hans P. Zizold D.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
